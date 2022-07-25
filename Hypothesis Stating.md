@@ -4,7 +4,9 @@
 
 REMEMBER:
 #(Null)>= will alwayscome with <(alternate)
+
 #(Null)<= will always come with >(alternate)
+
 #(Null)= will always comes with !=(alternate)
 
 when null hypothesis is >= alternate hypothesis will be always <

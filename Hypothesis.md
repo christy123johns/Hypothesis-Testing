@@ -24,7 +24,7 @@ H1: There is Significant difference between variables
 
  
 
-##T test
+## T test
 
  
 
@@ -62,7 +62,7 @@ Example: weight 1 indicates the weight of kids in a school. Weight 2 is the weig
 
  
 
-##Z test
+## Z test
 
 It is used to determine whether the means are different when the population variance is known and the sample size is large, sample size > 30
 
@@ -88,7 +88,7 @@ Example: IQ levels for 20 individuals from each city, to test the mean IQ level 
 
  
 
-##F test/ Anova
+## F test/ Anova
 
  
 

@@ -86,6 +86,7 @@ We test Two sample Z tests using 2 different continuous samples.
 
 Example: IQ levels for 20 individuals from each city, to test the mean IQ level is significantly different between the two cities.
 
+![image](https://user-images.githubusercontent.com/97213715/180701444-ec764a90-d0a6-4f74-a252-6133e6e27b16.png)
  
 
 ## F test/ Anova
@@ -123,3 +124,5 @@ There are two kinds of questions arrives in ANOVA
 One way classification of data: observations are classified on the basis of a single criterion.
 
 Two way classification of data: observation are classified on the basis of two criteria
+
+
